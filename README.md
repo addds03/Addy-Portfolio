@@ -8,7 +8,7 @@
 
 ### Personal
 
-1. [Salary Prediction using Glassdoor data] (https://github.com/addds03/Salary-Projection-Project)
+1. [Salary Prediction using Glassdoor data](https://github.com/addds03/Salary-Projection-Project)
 2. [Data Analytics: Dognition](https://public.tableau.com/profile/aditya.gaikwad#!/vizhome/Recommendations_15929796871780/RecommendationtoDognition)
 
 ## Training & Certifications

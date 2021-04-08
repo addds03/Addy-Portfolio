@@ -1,3 +1,12 @@
+
+## Technical Skills
+
+**Programming Languages** - Python, MATLAB, R, Java <br>
+**Data Visualization** - Tableau, Excel<br>
+**Database Systems** - SQL, MS-SQL, Oracle, PostgreSQL<br>
+**Libraries** – NumPy, Pandas, Folium, Matplotlib, Seaborn, Scikit-learn<br>
+**Tools** – Jupyter Notebook, Spyder, R-studio, Orange
+
 ## Projects
 
 ### Academics

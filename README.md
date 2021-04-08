@@ -13,13 +13,16 @@
 
 ## Training & Certifications
 
-1. [‘WorldQuant’ University Applied Data Science I: Scientific Computing & Python (with honors)](https://www.credly.com/badges/fe8ca429-e20c-4482-a7f0-c60ccf737d38?source=linked_in_profile)
+1. [‘WorldQuant University' Applied Data Science I: Scientific Computing & Python (with honors)](https://www.credly.com/badges/fe8ca429-e20c-4482-a7f0-c60ccf737d38?source=linked_in_profile)
 2. [Data Analytics Consulting Virtual Internship – Forage](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_cr7rwgKzWhRhJzsg4_completion_certificate.pdf)
 3. [Data Visualization and Communication with Tableau](https://www.coursera.org/account/accomplishments/certificate/H698PYLZMH34)
 4. [Statistical Inference](https://www.coursera.org/account/accomplishments/certificate/GG9ARMAL8D5L)
-5. [Introduction to Data Science - IBM Cognitive Class](https://courses.cognitiveclass.ai/certificates/ece1aa7fb5c646f4954a6c1383667dd7)
 
 ## Professional Achievements
 
-1. Rising Star 
-2. Xtra Mile
+Rising Star 
+: For the timely resolution of an error, which increased the speed of the payment system by more
+than 60%
+Xtra Mile
+: For faultless delivery of the requirements, with scalable system architecture creating profits for the
+business while leading a team of five.

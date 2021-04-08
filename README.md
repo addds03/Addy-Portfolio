@@ -1,6 +1,3 @@
-# Addy-Portfolio
-Data Science Portfolio
-
 ## Projects
 
 ### Academics

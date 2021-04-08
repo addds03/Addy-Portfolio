@@ -20,9 +20,9 @@
 
 ## Professional Achievements
 
-Rising Star 
-: For the timely resolution of an error, which increased the speed of the payment system by more
-than 60%
-Xtra Mile
-: For faultless delivery of the requirements, with scalable system architecture creating profits for the
-business while leading a team of five.
+<dl>
+  <dt>Rising Star</dt>
+    <dd>For the timely resolution of an error, which increased the speed of the payment system by more than 60%</dd>
+  <dt>Xtra Mile</dt>
+    <dd>For faultless delivery of the requirements, with scalable system architecture creating profits for the business while leading a team of five</dd>
+</dl>

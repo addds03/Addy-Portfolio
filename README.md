@@ -16,9 +16,9 @@
    2. Timely Reminders
    3. Use Social Media Marketing!
     
-3. Customer Analytics
+3. [Customer Analytics](https://github.com/addds03/Pet_Projects/tree/main/Customer%20Analytics)
     
-4. Toronto House Prices: A Hedonic Geospatial Analysis
+4. [Toronto House Prices: A Hedonic Geospatial Analysis](https://github.com/JacobHazen1/Geospatial-Analysis-on-House-Price-Prediction)
 
 
 

@@ -34,24 +34,5 @@
       <description>Used Tableau to Analyse the Data and recommended strategies to be implemented to increase the test completion rate by 15% over 3 months. Generated Insights based on Top 10 countries completing tests, narrowed it down to provinces, and recommended the location to advertise locally (Area Customed Advertising). Suggested company to send timely reminders based on analysis of data on a monthly, weekly, and daily basis. Most of the users are activer between 6-8 pm, set reminders accordingly.</description>
     </item>
     
-    <item>
-      <title>Article</title>
-      <link>https://addds03.github.io/Addy-Portfolio/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://addds03.github.io/Addy-Portfolio/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://addds03.github.io/Addy-Portfolio/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://addds03.github.io/Addy-Portfolio/contact/</guid>
-      <description>Get In Touch!
-   Platform URL     LinkedIn: https://www.linkedin.com/in/aditya-gaikwad3/   Github: https://github.com/addds03   Tableau: https://public.tableau.com/profile/aditya.gaikwad#!/    </description>
-    </item>
-    
   </channel>
 </rss>

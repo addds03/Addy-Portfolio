@@ -31,6 +31,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://addds03.github.io/Addy-Portfolio/articles/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://addds03.github.io/Addy-Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

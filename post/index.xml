@@ -8,12 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://addds03.github.io/Addy-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Spotify</title>
+      <link>https://addds03.github.io/Addy-Portfolio/post/project-4/</link>
+      <pubDate>Sat, 15 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://addds03.github.io/Addy-Portfolio/post/project-4/</guid>
+      <description>Summary: In Progress
+Resources Python Version: 3.7
+Packages: pandas, json Visualizations: plotly express and graph objects Full Code can be accessed at the Github repository</description>
+    </item>
+    
+    <item>
       <title>Customer Analytics</title>
       <link>https://addds03.github.io/Addy-Portfolio/post/project-3/</link>
       <pubDate>Sun, 02 May 2021 11:00:59 -0400</pubDate>
       
       <guid>https://addds03.github.io/Addy-Portfolio/post/project-3/</guid>
-      <description>Data fragmented into 4 Segments using a combination of Principal Component Analysis (4 Components) and K-Means Clustering.  Career-focused - Young group of high-income and well-qualified people. Well-off - Mid-Age wealthy group in a big city. Standard - Average Population. (Middle Class) Few opportunities - Customers from small cities with mediocre income and not highly qualified.   A Descriptive Analysis of the Number of purchases, Brand choice, and Revenue generated per segment.</description>
+      <description>Summary:  Data fragmented into 4 Segments using a combination of Principal Component Analysis (4 Components) and K-Means Clustering.  Career-focused - Young group of high-income and well-qualified people. Well-off - Mid-Age wealthy group in a big city. Standard - Average Population. (Middle Class) Few opportunities - Customers from small cities with mediocre income and not highly qualified.   A Descriptive Analysis of the Number of purchases, Brand choice, and Revenue generated per segment.</description>
     </item>
     
     <item>
@@ -22,7 +33,7 @@
       <pubDate>Thu, 15 Apr 2021 11:00:59 -0400</pubDate>
       
       <guid>https://addds03.github.io/Addy-Portfolio/post/project-1/</guid>
-      <description>Created a tool that estimates house prices (RMSLE ~ 0.1325) to help house buyers, sellers, or agent negotiate their house prices and external factors such as neighborhood income, distance to the nearest hospital, transit stop, park, and crimes nearby. Gathered data from multiple data sources, primary Zoocasa.ca, and external factors Toronto Open Data Portal, Airbnb.ca, Toronto Police Service Data Portal. Engineered 15 features from 8 different datasets using Python. Implemented geospatial proximity joins using K-dimensional tree package from &amp;lsquo;scipy&amp;rsquo; to engineer features on shapefile.</description>
+      <description>Summary:  Created a tool that estimates house prices (RMSLE ~ 0.1325) to help house buyers, sellers, or agent negotiate their house prices and external factors such as neighborhood income, distance to the nearest hospital, transit stop, park, and crimes nearby. Gathered data from multiple data sources, primary Zoocasa.ca, and external factors Toronto Open Data Portal, Airbnb.ca, Toronto Police Service Data Portal. Engineered 15 features from 8 different datasets using Python.</description>
     </item>
     
     <item>
@@ -31,7 +42,7 @@
       <pubDate>Wed, 24 Jun 2020 11:00:59 -0400</pubDate>
       
       <guid>https://addds03.github.io/Addy-Portfolio/post/project-2/</guid>
-      <description>Used Tableau to Analyse the Data and recommended strategies to be implemented to increase the test completion rate by 15% over 3 months. Generated Insights based on Top 10 countries completing tests, narrowed it down to provinces, and recommended the location to advertise locally (Area Customed Advertising). Suggested company to send timely reminders based on analysis of data on a monthly, weekly, and daily basis. Most of the users are activer between 6-8 pm, set reminders accordingly.</description>
+      <description>Summary:  Used Tableau to Analyse the Data and recommended strategies to be implemented to increase the test completion rate by 15% over 3 months. Generated Insights based on Top 10 countries completing tests, narrowed it down to provinces, and recommended the location to advertise locally (Area Customed Advertising). Suggested company to send timely reminders based on analysis of data on a monthly, weekly, and daily basis. Most of the users are activer between 6-8 pm, set reminders accordingly.</description>
     </item>
     
   </channel>
